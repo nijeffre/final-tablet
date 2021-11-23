@@ -6,7 +6,11 @@ body
     font-family: 'Alegreya Sans SC',serif;
 
 }
-
+.loc
+{
+    text-decoration: underline;
+    font-size: 20px;
+}
 h1{
     font-weight: 400;
     font-size: 40px;
